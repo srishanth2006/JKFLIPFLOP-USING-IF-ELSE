@@ -73,11 +73,19 @@ module e7(j, k, clk, rst, q);
   endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+
+
+
+
 <img width="563" alt="image" src="https://github.com/user-attachments/assets/a0b307ea-6759-49cd-a602-696570169b5e">
 
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
+
+
+
 <img width="560" alt="image" src="https://github.com/user-attachments/assets/86d8b472-ccb9-411a-ae52-6551070b46e1">
 
 
